@@ -4,7 +4,7 @@
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
 model = "gpt-3.5-turbo"
 
 print(" ____ ____ ____ ____ ____ ____ ____ ____ ____ ____ ____\n||M |||i |||d |||n |||i |||g |||h |||t |||G |||P |||T ||\n||__|||__|||__|||__|||__|||__|||__|||__|||__|||__|||__||\n|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|/__\|")
